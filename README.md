@@ -1,4 +1,4 @@
-# <Name_Exercise>
+# Node: My First Node
 
 ## Getting Started
 
